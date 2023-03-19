@@ -180,7 +180,7 @@ while ($count -lt $NUMBER_OF_ACCOUNTS_TO_CREATE) {
   <img src="https://i.imgur.com/HFguOhB.png" height="80%" width="80%" alt="windows start menu shows login user"/>
   </p>
   <p align="center"><b><i>"It is good to have an end to journey toward; but it is the journey that matters, in the end.”</p></b></i>
-<p align="center"><b><i>"So, what is it? What is it you’re doing with this one wild and precious life of yours?”💭</p></b></i>
+<p align="center"><b><i>"So, what is it? What is it you’re doing with this one wild and precious life of yours?”</p></b></i>
 <br />
 <br />
-<p align="right"> Next up, <a href="https://github.com/shakiramcdonald/azure-network-protocols"> Azure Network Protocols </a></p>
+<p align="right"> Next up <a href="https://github.com/shakiramcdonald/azure-network-protocols"> Azure Network Protocols </a></p>
